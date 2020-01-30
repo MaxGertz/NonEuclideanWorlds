@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_noneuclideanworlds.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Student_Projects\\MaxGertz\\noneuclidean-worlds\\VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_NonEuclideanWorlds [Testing]"
+        }
+      }
+    }
+  ]
+}
